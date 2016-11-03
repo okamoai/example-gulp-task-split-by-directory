@@ -27,7 +27,7 @@ npm run sprite
 ```
 ## ライセンス
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](http://github.com/okamoai/example-gulp-task-split-by-directory/blob/master/LICENSE)
 
 ## 制作者
 
